@@ -103,3 +103,14 @@ This repository contains a machine learning pipeline for **binary diabetes predi
 # Contributors
 * Sanjid Hasan Sourov (sanjid.hasan.sourov@g.bracu.ac.bd)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+# Sample Visualizations
+![Visualization 1](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/74ee3bf22704f652b32a70751383b73bf5ea7c70/6/1.png)
+![Visualization 2](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/74ee3bf22704f652b32a70751383b73bf5ea7c70/6/2.png)
+![Visualization 3](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/74ee3bf22704f652b32a70751383b73bf5ea7c70/6/3.png)
+![Visualization 4](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/74ee3bf22704f652b32a70751383b73bf5ea7c70/6/4.png)
+![Visualization 5](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/74ee3bf22704f652b32a70751383b73bf5ea7c70/6/5.png)
+![Visualization 1](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/74ee3bf22704f652b32a70751383b73bf5ea7c70/6/6.png)
+![Visualization 1](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/74ee3bf22704f652b32a70751383b73bf5ea7c70/6/7.png)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
