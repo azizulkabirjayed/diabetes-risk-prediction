@@ -70,7 +70,6 @@ This repository contains a machine learning pipeline for **binary diabetes predi
 | **Random Forest** | 0.9631 | 0.8454 | 0.6328 | 0.9422 |
 | **Neural Network** | 0.9654 | 0.8930 | 0.6212 | 0.9639 |
 | **K-Means Clustering** | 0.9237 | 0.0000 | 0.0000 | 0.7635 |
-
 > **Note:** K-Means predicted all samples as non-diabetic (class 0), resulting in zero precision and recall for the diabetic class.
 
 ### Evaluation Includes
@@ -80,19 +79,17 @@ This repository contains a machine learning pipeline for **binary diabetes predi
 * ROC curve comparison with AUC scores
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-# How to Run
 
+# How to Run
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/YOUR-USERNAME/cse422.git
    cd cse422
    ```
-
 2. **Install Dependencies**
    ```bash
    pip install pandas numpy matplotlib seaborn scikit-learn tensorflow imbalanced-learn jupyter
    ```
-
 3. **Run Notebook**
    ```bash
    jupyter notebook 422_project.ipynb
